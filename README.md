@@ -7,4 +7,4 @@ cd debasish-bihari
 npm start
 ```
 ## Deployed Link
-[![Vercel]] (https://multimedia-container.vercel.app/)
+ (https://multimedia-container.vercel.app/)
